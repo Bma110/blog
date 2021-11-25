@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.sdiopid.top/about/index.html</loc>
+    <loc>https://www.sdiopid.top/note/about/index.html</loc>
     
     <lastmod>2021-11-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.sdiopid.top/about/hotes/%E9%85%B8%E7%A2%B1%E7%B4%8A%E4%B9%B1.html</loc>
+    <loc>https://www.sdiopid.top/note/about/hotes/%E9%85%B8%E7%A2%B1%E7%B4%8A%E4%B9%B1.html</loc>
     
     <lastmod>2021-11-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.sdiopid.top/2021/11/25/hello-world/</loc>
+    <loc>https://www.sdiopid.top/note/2021/11/25/hello-world/</loc>
     
     <lastmod>2021-11-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.sdiopid.top/2021/11/25/023_%E6%B5%8B%E8%AF%84_%E7%A9%BF%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E9%AD%85%E5%8A%9B%E2%80%94%E2%80%94Thinkpad-X220T-%E6%B5%8B%E8%AF%84/</loc>
+    <loc>https://www.sdiopid.top/note/2021/11/25/023_%E6%B5%8B%E8%AF%84_%E7%A9%BF%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E9%AD%85%E5%8A%9B%E2%80%94%E2%80%94Thinkpad-X220T-%E6%B5%8B%E8%AF%84/</loc>
     
     <lastmod>2021-09-01</lastmod>
     
@@ -31,7 +31,7 @@
   
 
   <url>
-    <loc>https://blog.sdiopid.top/</loc>
+    <loc>https://www.sdiopid.top/note</loc>
     <lastmod>2021-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -39,7 +39,7 @@
 
   
   <url>
-    <loc>https://blog.sdiopid.top/tags/%E6%B5%8B%E8%AF%84/</loc>
+    <loc>https://www.sdiopid.top/note/tags/%E6%B5%8B%E8%AF%84/</loc>
     <lastmod>2021-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -48,21 +48,21 @@
 
   
   <url>
-    <loc>https://blog.sdiopid.top/categories/%E7%AC%AC%E4%BA%8C%E7%BA%A7/</loc>
+    <loc>https://www.sdiopid.top/note/categories/%E7%AC%AC%E4%BA%8C%E7%BA%A7/</loc>
     <lastmod>2021-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.sdiopid.top/categories/%E7%AC%AC%E4%BA%8C%E7%BA%A7/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://www.sdiopid.top/note/categories/%E7%AC%AC%E4%BA%8C%E7%BA%A7/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2021-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.sdiopid.top/categories/%E7%AC%AC%E4%BA%8C%E7%BA%A7/%E7%94%9F%E6%B4%BB/%E6%B5%8B%E8%AF%84/</loc>
+    <loc>https://www.sdiopid.top/note/categories/%E7%AC%AC%E4%BA%8C%E7%BA%A7/%E7%94%9F%E6%B4%BB/%E6%B5%8B%E8%AF%84/</loc>
     <lastmod>2021-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

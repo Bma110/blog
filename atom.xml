@@ -3,11 +3,11 @@
   <title></title>
   
   <subtitle>生当勤勉 死则永息</subtitle>
-  <link href="https://blog.sdiopid.top/atom.xml" rel="self"/>
+  <link href="https://www.sdiopid.top/note/atom.xml" rel="self"/>
   
-  <link href="https://blog.sdiopid.top/"/>
+  <link href="https://www.sdiopid.top/note/"/>
   <updated>2021-09-01T02:14:33.478Z</updated>
-  <id>https://blog.sdiopid.top/</id>
+  <id>https://www.sdiopid.top/note/</id>
   
   <author>
     <name>Yuhuai Guo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>231_测评_穿越时空的魅力——Thinkpad-X220T初体验</title>
-    <link href="https://blog.sdiopid.top/2021/11/25/023_%E6%B5%8B%E8%AF%84_%E7%A9%BF%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E9%AD%85%E5%8A%9B%E2%80%94%E2%80%94Thinkpad-X220T-%E6%B5%8B%E8%AF%84/"/>
-    <id>https://blog.sdiopid.top/2021/11/25/023_%E6%B5%8B%E8%AF%84_%E7%A9%BF%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E9%AD%85%E5%8A%9B%E2%80%94%E2%80%94Thinkpad-X220T-%E6%B5%8B%E8%AF%84/</id>
+    <link href="https://www.sdiopid.top/note/2021/11/25/023_%E6%B5%8B%E8%AF%84_%E7%A9%BF%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E9%AD%85%E5%8A%9B%E2%80%94%E2%80%94Thinkpad-X220T-%E6%B5%8B%E8%AF%84/"/>
+    <id>https://www.sdiopid.top/note/2021/11/25/023_%E6%B5%8B%E8%AF%84_%E7%A9%BF%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E9%AD%85%E5%8A%9B%E2%80%94%E2%80%94Thinkpad-X220T-%E6%B5%8B%E8%AF%84/</id>
     <published>2021-11-25T03:35:26.265Z</published>
     <updated>2021-09-01T02:14:33.478Z</updated>
     
@@ -30,21 +30,21 @@
     
     
     
-    <category term="第二级" scheme="https://blog.sdiopid.top/categories/%E7%AC%AC%E4%BA%8C%E7%BA%A7/"/>
+    <category term="第二级" scheme="https://www.sdiopid.top/note/categories/%E7%AC%AC%E4%BA%8C%E7%BA%A7/"/>
     
-    <category term="生活" scheme="https://blog.sdiopid.top/categories/%E7%AC%AC%E4%BA%8C%E7%BA%A7/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://www.sdiopid.top/note/categories/%E7%AC%AC%E4%BA%8C%E7%BA%A7/%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="测评" scheme="https://blog.sdiopid.top/categories/%E7%AC%AC%E4%BA%8C%E7%BA%A7/%E7%94%9F%E6%B4%BB/%E6%B5%8B%E8%AF%84/"/>
+    <category term="测评" scheme="https://www.sdiopid.top/note/categories/%E7%AC%AC%E4%BA%8C%E7%BA%A7/%E7%94%9F%E6%B4%BB/%E6%B5%8B%E8%AF%84/"/>
     
     
-    <category term="测评" scheme="https://blog.sdiopid.top/tags/%E6%B5%8B%E8%AF%84/"/>
+    <category term="测评" scheme="https://www.sdiopid.top/note/tags/%E6%B5%8B%E8%AF%84/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.sdiopid.top/2021/11/25/hello-world/"/>
-    <id>https://blog.sdiopid.top/2021/11/25/hello-world/</id>
+    <link href="https://www.sdiopid.top/note/2021/11/25/hello-world/"/>
+    <id>https://www.sdiopid.top/note/2021/11/25/hello-world/</id>
     <published>2021-11-24T17:15:13.805Z</published>
     <updated>2021-11-24T17:15:13.805Z</updated>
     
