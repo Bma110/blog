@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.sdiopid.top/note/2021/12/30/tips/</loc>
+    
+    <lastmod>2021-12-30</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.sdiopid.top/note/about/index.html</loc>
     
     <lastmod>2021-11-29</lastmod>
@@ -81,7 +88,7 @@
 
   <url>
     <loc>https://www.sdiopid.top/note</loc>
-    <lastmod>2021-11-29</lastmod>
+    <lastmod>2021-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -89,7 +96,7 @@
   
   <url>
     <loc>https://www.sdiopid.top/note/tags/%E6%B5%8B%E8%AF%84/</loc>
-    <lastmod>2021-11-29</lastmod>
+    <lastmod>2021-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
